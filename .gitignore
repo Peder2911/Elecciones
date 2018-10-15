@@ -1,0 +1,13 @@
+py/*
+
+plots/*
+!plots/.gitkeep
+geo/*
+!geo/.gitkeep
+data/*
+!data/.gitkeep
+
+*.png
+*.pdf
+
+.R*
